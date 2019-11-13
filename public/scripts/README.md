@@ -1,0 +1,1 @@
+Javascript files will be processed here.
