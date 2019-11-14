@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "dev": "webpack-dev-server --mode development",
-    "build": "webpack --mode production",
-    "start": "node app.js"
+    "build": "webpack --mode production"
   },
   "author": "Gizmo-Rishab",
   "license": "MIT",
